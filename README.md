@@ -97,8 +97,8 @@ A fully functional attendance management system for organizations.
 
 # 📬 Connect With Me  
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
+  <a href="www.linkedin.com/in/dhwanit-patel-062000318"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
+  <a href="mailto:dhwanitakoliya10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
 </p>
 
 ---
