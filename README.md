@@ -81,7 +81,8 @@ A fully functional attendance management system for organizations.
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/username=dhwanit10&layout=compact&theme=calm"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/
+    username=dhwanit10&layout=compact&theme=calm"/>
 </p>
 
 ---
