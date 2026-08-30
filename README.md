@@ -26,25 +26,32 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql,html,css&theme=dark" />
-
-<br/><br/>
-
-**Backend & AI/ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,js,ts,html,css&theme=dark" />
 
 <br/><br/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,tailwind&theme=dark" />
 
 <br/><br/>
 
-**Databases & Tools**
+**Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,dotnet,nodejs&theme=dark" />
+
+<br/><br/>
+
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
+
+<br/><br/>
+
+**AI/ML & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,git,github,linux,docker,postman&theme=dark" />
 
 </div>
 
@@ -57,9 +64,9 @@
 <td width="50%" valign="top">
 
 ### 🎯 CampusFind
-A campus-focused lost & found platform built for real everyday use.
+A campus-focused social-media app built for students to get socialize around campus.
 
-**Stack:** Python
+**Stack:** Python, Django, Postgre
 
 [![Repo](https://img.shields.io/badge/View-Repository-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhwanit10/CampusFind)
 
@@ -69,7 +76,7 @@ A campus-focused lost & found platform built for real everyday use.
 ### 🚗 CarCast — Car Price Prediction
 ML-powered app that predicts car prices from real-world features.
 
-**Stack:** Python, Machine Learning
+**Stack:** Python, Numpy, Pandas, Scikit-learn, FastAPI, React
 
 [![Repo](https://img.shields.io/badge/View-Repository-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhwanit10/car-price-prediction-project)
 
