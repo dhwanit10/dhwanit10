@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🐍 Full-stack development with **Django** & **FastAPI**
+- 🐍 Full-stack development with **Django** & **FastAPI+ReactJS**
 - 🤖 Exploring **AI/ML** — models, pipelines, real-world data
 - 🎨 Frontend: **React** when the app needs it, Django templates when it doesn't
 - 🛢 Comfortable across **PostgreSQL, MySQL, SQL Server**
